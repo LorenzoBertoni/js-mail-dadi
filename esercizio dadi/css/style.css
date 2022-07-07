@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('https://www.wikihow.com/images_en/thumb/8/8e/Play-Dice-%282-Dice-Gambling-Games%29-Step-4.jpg/v4-460px-Play-Dice-%282-Dice-Gambling-Games%29-Step-4.jpg.webp');
+    background-size: cover;
+}
+
+h1, p{
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 70px;
+}
